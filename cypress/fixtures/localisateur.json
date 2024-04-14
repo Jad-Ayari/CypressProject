@@ -1,0 +1,10 @@
+{
+"loc_email":"[data-qa='signup-email']",
+"loc_signup":"[data-qa='signup-button']",
+"loc_create":"[data-qa='create-account']",
+"loc_Idgender":"#id_gender1",
+"loc_password":"#password",
+"loc_logemail":"[data-qa='login-email']",
+"loc_logpassword":"[data-qa='login-password']",
+"loc_btnlogin":"[data-qa='login-button']"
+}
